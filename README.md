@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mayur Rathod
 
-Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and exploring new technologies. I am a final-year student at the Indian Institute of Information Technology, Gwalior (IIIT Gwalior), currently pursuing an Integrated Dual Degree (B.Tech + Masters) in Information Technology.
+Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and exploring new technologies and I am a final-year student at the Indian Institute of Information Technology, Gwalior (IIIT Gwalior), currently pursuing an Integrated Dual Degree (B.Tech + Masters) in Information Technology.
 
 ## 🔗 About Me
 
